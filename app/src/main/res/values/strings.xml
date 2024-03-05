@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasMobile</string>
+    <string name="masukkan_angka">Masukkan angka</string>
+    <string name="panjang">Panjang :</string>
+    <string name="lebar">Lebar :</string>
+    <string name="hasil">Hasil</string>
+    <string name="infoPanjang">Panjang \t\t:</string>
+    <string name="infoLebar">Lebar \t\t\t\t\t:</string>
+    <string name="infoHasil">Hasil \t\t\t\t\t\t:</string>
+</resources>
